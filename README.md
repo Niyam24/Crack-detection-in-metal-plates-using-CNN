@@ -1,4 +1,4 @@
-# 🏗️ Concrete Crack Detection using Convolutional Neural Networks (CNN)
+# 🏗️ Metal plates Crack Detection using Convolutional Neural Networks (CNN)
 
 A deep learning project that automatically detects cracks in concrete surfaces using a Convolutional Neural Network (CNN). This project aims to assist in structural health monitoring by classifying concrete images as either **Crack** or **No Crack**.
 
